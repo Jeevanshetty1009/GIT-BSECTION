@@ -1,8 +1,1 @@
-Jeevan
-Banglore
-mysore
-I am CSE student
-acharian
-Soldevanahalli
-madan
-Gagan is a coder
+git rebase
